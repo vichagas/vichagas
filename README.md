@@ -9,7 +9,7 @@
 <!-- Mensagem de Descrição -->
 <br>
 <div align="center">
-  <p> Sou estudante de Engenharia da Computação na Universidade Federal do Amazonas (UFAM) 🎓
+  <p> Sou Bacharel em Engenharia da Computação pela Universidade Federal do Amazonas (UFAM) 🎓
   <p> Possuo experiência em <strong>Aprendizado de Máquina</strong>, <strong>IoT</strong>, <strong>Desenvolvimento Android</strong> e em <strong>Desenvolvimento de Jogos 2D e 3D</strong>. 📝 
   <p> Participei da <strong>Residência em Jogos</strong> no <a href="https://www.eldorado.org.br/unidade/manaus-am/"> Instituto ELDORADO</a>. Lá contamos com uma equipe de 19 pessoas, entre desenvolvedores e designers, e em menos de 3 meses conseguimos entregar um jogo mobile 3D utilizando tecnologias como C#, Git, Unity e Atlassian 🎮
   <p> Busco oportunidades para aplicar minhas habilidades em inovações no setor de tecnologia e de games! 💻
