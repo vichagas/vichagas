@@ -9,10 +9,10 @@
 <!-- Mensagem de Descrição -->
 <br>
 <div align="center">
-  <p> Sou Bacharel em Engenharia da Computação pela Universidade Federal do Amazonas (UFAM) 🎓
-  <p> Possuo experiência em <strong>Aprendizado de Máquina</strong>, <strong>IoT</strong>, <strong>Desenvolvimento Android</strong> e em <strong>Desenvolvimento de Jogos 2D e 3D</strong>. 📝 
-  <p> Participei da <strong>Residência em Jogos</strong> no <a href="https://www.eldorado.org.br/unidade/manaus-am/"> Instituto ELDORADO</a>. Lá contamos com uma equipe de 19 pessoas, entre desenvolvedores e designers, e em menos de 3 meses conseguimos entregar um jogo mobile 3D utilizando tecnologias como C#, Git, Unity e Atlassian 🎮
-  <p> Busco oportunidades para aplicar minhas habilidades em inovações no setor de tecnologia e de games! 💻
+  <p> Bachelor's degree in Computer Engineering from the Federal University of Amazonas (UFAM) 🎓 </p>
+  <p> Experience in <strong>2D and 3D Game Development</strong> for Android and PC, with a focus on <strong>Audio and Music Production</strong> 📝 </p>
+  <p> Participation in the <strong>Game Residency</strong> at the <a href="https://www.eldorado.org.br/unidade/manaus-am/">Eldorado Institute</a>. There, we had a team of 19 people, including developers and designers, and in less than 3 months we managed to deliver a 3D mobile game using technologies such as C#, Git, Unity, and Atlassian 🎮 </p>
+  <p> Looking for opportunities to apply my skills! 💻 </p>
 </div>
 
 <!-- Ícone do meu Octocat -->
@@ -27,7 +27,7 @@
   <!-- Gif 1: Pinguim codando -->
   <img align="right" src="images/pinguim-codando.gif" height="80px" alt="pinguim-codando.gif" hspace="10"/>
   
-  <h3>Tecnologias</h3>
+  <h3>Skills</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" hspace="5"/>
   <!--<img width="8" />-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" hspace="5"/>
@@ -57,7 +57,7 @@
 <hr>
 
 <!-- Seção de Contato (com ícones) -->
-<h3 align="center">Entre em contato!</h3>
+<h3 align="center">Get in touch!</h3>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/vinifchagas/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn </a></code>
   <img width="5"/>
